@@ -103,19 +103,12 @@
 
 <br/>
 
-### 📊 GitHub Analytics
-
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rdz0101&show_icons=true&theme=dark&locale=en&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdz0101&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdz0101&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
