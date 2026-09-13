@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Dominic (AKA Ruchika)</h1>
   <h3>I design systems.</h3>
-  <div align="center">
+  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rdz0101&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rdz0101&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </div>
 
